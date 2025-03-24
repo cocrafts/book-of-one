@@ -9,3 +9,9 @@ This novel heavily inspired by John Ronald Reuel Tolkien, his book LOTR and stor
 - Under part folders e.g `./part-one`, `./part-two` see `brief.md` for brief/summary of that part and put detailed chapter information under e.g `./part-one/chapter-001.md`
 - `chapter-[number].md` is the main content of the chapter, you'll help write/adjust/edit detailed novel content from those files
 - Primary language is English: you may found Vietnamese content as I'm more familiar with Vietnames - I'll use it for effective brainstorming, but you'll translate/write/edit novel in English.
+
+## Table of Contents
+
+### Part One: Raise of Magic
+
+- [Chapter 1: Shadows of Forgotten Magic](./part-one/chapter-001.md)
