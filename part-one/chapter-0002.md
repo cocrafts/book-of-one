@@ -112,7 +112,7 @@ Kieron had wondered, though he'd never voiced the question. Master Alfwyn taught
 
 "Not... merely... battle energy," Kane continued, his words slurring as he slipped deeper into delirium. "Remnants of true magic... Elemental Magic... Elves taught us before... before the betrayal... we betrayed them all..."
 
-Kieron nearly dropped the bandage he was preparing. Such talk was dangerous—heretical, even. The Church of Light taught that humans had always been the sole sentient race of ATEM, with other beings mere legends or metaphors.
+Kieron nearly dropped the bandage he was preparing. Such talk was dangerous—heretical, even. The Church of Light taught that humans had always been the sole sentient race, with other beings mere legends or metaphors.
 
 "Sir Kane, you're delirious from the fever," Kieron said carefully, trying to ease the knight back down. "You need to rest."
 
@@ -164,7 +164,7 @@ As if in response to his words, a distant horn sounded beyond the cave entrance�
 
 The old master hesitated, then reached into his robe and removed something—a small medallion that Kieron had never seen before. In the dim light of the cave, it appeared to be a fragment of thick parchment or card, encased in crystal. Stranger still, it seemed to pulse with an inner darkness, not the absence of light but something more tangible.
 
-"The seals are weakening sooner than expected," Alfwyn murmured, seemingly to himself. "The boy will need to learn the truth faster than I had hoped."
+"The seals are weakening sooner than expected," Alfwyn murmured, seemingly to himself.
 
 He tucked the strange object away before Kieron could get a proper look at it, but the apprentice had seen enough to recognize that it was unlike anything in Master Alfwyn's usual collection of herbs, stones, and remedies.
 
