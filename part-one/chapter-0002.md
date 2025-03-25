@@ -24,9 +24,9 @@ In the hollow below, barely visible through the swirling snow, a man in tattered
 
 Kieron had never seen battle energy manifest in such a way. The stories told of great warriors whose đấu khí could warm the air around them, but this was different. This was... something else. Something ancient.
 
-The wounded man's head snapped up, and despite the distance and storm between them, Kieron felt the intensity of his gaze lock onto him with impossible precision.
+The wounded man's head snapped up, and despite the distance and storm between them, Kieron felt the intensity of his gaze lock onto him with impossible precision. His hand moved to the hilt of a dagger at his belt.
 
-"Boy," the man called, his voice carrying unnaturally through the howling wind. "Either kill me or help me. The storm won't hide you from what follows."
+"I see you, boy," the man called, his voice carrying unnaturally through the howling wind. "Stand where you are." His eyes, fever-bright yet calculating, assessed Kieron with cold efficiency. "I've killed men for less than stumbling upon my hiding place. Your life now hangs on your next decision—help me reach shelter, or die here before you can alert my pursuers."
 
 Kieron's breath caught. He recognized the remains of the armor now—the intricate patterns inscribed along the breastplate, the seven-pointed star emblazoned on the pauldrons. This was no ordinary warrior.
 
@@ -44,7 +44,7 @@ A pained smile crossed Kane's face. "The herbs in your satchel. The way you move
 
 Kieron's hand flew to the stone, a gift from Master Alfwyn on his first day of apprenticeship. The old man had called it a simple focus stone, nothing more.
 
-"You have two choices, boy," Kane continued, his voice weakening. "Help me reach the cave of ice beyond the northern ridge, or leave now and forget you saw me."
+Kane's gaze lingered on Kieron's pendant, something shifting in his expression. The murderous intent seemed to ebb from him like a receding tide. "You have two choices, boy," Kane continued, his voice weakening. "Help me reach the cave of ice beyond the northern ridge, or leave now and forget you saw me."
 
 "There is a third choice," came a new voice, and Kieron spun to see three figures in gleaming armor emerging from the storm behind him. Light Church Inquisitors, their white cloaks somehow repelling the snow that clung to everything else. "The boy can help us apprehend the traitor and be rewarded for his service to the Light."
 
@@ -56,11 +56,13 @@ Kane struggled to his feet, one hand pressed to his side, the other clutching th
 
 The Inquisitor took another step forward. "Last warning. Stand aside."
 
-In that moment, Kieron made his choice. Not fully understanding why, he reached into his satchel and grabbed a handful of the silvery powder Master Alfwyn had taught him to prepare—ostensibly for treating frostbite, though the old man had hinted at other uses.
+In that moment, Kieron's fingers brushed against his pendant, and he felt it grow inexplicably cold against his skin. A strange certainty washed over him, not unlike the feeling he sometimes experienced when identifying rare herbs in the forest—a knowledge that seemed to come from somewhere beyond conscious thought. 
+
+He reached into his satchel and grabbed a handful of the silvery powder Master Alfwyn had taught him to prepare—ostensibly for treating frostbite, though the old man had hinted at other uses.
 
 "Close your eyes!" he shouted to Kane, then flung the powder into the air between them and the Inquisitors.
 
-The powder ignited upon contact with the falling snow, creating a blinding flash that illuminated the entire clearing. The Inquisitors cried out, shielding their eyes too late. In the momentary confusion, Kieron darted to Kane's side, pulling the wounded knight's arm across his shoulders.
+The powder ignited upon contact with the falling snow, creating a blinding flash that illuminated the entire clearing with far more intensity than Kieron had expected. The Inquisitors cried out, shielding their eyes too late. In the momentary confusion, Kieron darted to Kane's side, pulling the wounded knight's arm across his shoulders.
 
 "The cave," Kane gasped. "North and west, beyond the twisted pines."
 
@@ -68,11 +70,13 @@ Together they stumbled through the snow, the knight leaning heavily on the much 
 
 "That was no ordinary flash powder," Kane observed through gritted teeth as they pushed forward. "Your master teaches you more than herbs and remedies, it seems."
 
-Kieron said nothing, focusing on putting one foot in front of the other. His mind whirled with questions, but survival came first. The twisted pines Kane had mentioned were landmarks known to few outside House Stark—how did this southern knight know of them?
+"I—I'm not certain what happened," Kieron admitted, surprised at his own actions. The decision to help Kane had felt almost instinctual, as if guided by some hidden current beneath his conscious thoughts. "The powder has never reacted that way before."
+
+The twisted pines Kane had mentioned were landmarks known to few outside House Stark—how did this southern knight know of them? More puzzling still was how naturally Kieron's feet carried him toward them, as if he'd walked this path a hundred times before, though he was certain he hadn't.
 
 They reached the ancient pines as the storm began to ease, the massive trees contorted by centuries of wind and magic into shapes that resembled writhing figures. Beyond them, partially hidden by an outcropping of rock, the narrow entrance to the ice cave awaited.
 
-Inside, the temperature dropped further, but at least they were sheltered from the wind. Crystalline formations hung from the ceiling, capturing what little light filtered through the entrance and scattering it throughout the chamber in ghostly patterns.
+Inside, the temperature dropped further, but at least they were sheltered from the wind. Crystalline formations hung from the ceiling, capturing what little light filtered through the entrance and scattering it throughout the chamber in ghostly patterns. Some of the ice formations seemed to form symbols—patterns that tugged at the edges of Kieron's memory, though he was certain he had never seen them before.
 
 Kieron helped Kane to a relatively flat section of stone and set about examining his wound. The knight hissed in pain as Kieron pulled back the torn fabric around the injury.
 
@@ -82,11 +86,13 @@ Kieron helped Kane to a relatively flat section of stone and set about examining
 
 Kieron rummaged in his satchel, producing small vials and pouches of herbs. "Master Alfwyn has taught me that there are few wounds beyond all healing. Let me try."
 
-As he worked, applying poultices and quietly murmuring the focusing chants Alfwyn had taught him—allegedly to concentrate his mind, though Kieron had always suspected there was more to them—Kane studied him through fever-bright eyes.
+As he worked, applying poultices and quietly murmuring the focusing chants Alfwyn had taught him, Kieron felt a strange resonance between his pendant and the wrapped bundle Kane still clutched protectively. His hands moved with unexpected surety, selecting herbs and minerals he had never used in combination before, yet somehow knowing they were right for this peculiar wound.
+
+Kane studied him through fever-bright eyes.
 
 "You have a gift," the knight said after a time. "A sensitivity to energies most cannot perceive. It is rare in this age."
 
-Kieron shrugged uncomfortably. "Master Alfwyn says I have a knack for herbalism, nothing more."
+Kieron shrugged uncomfortably. "Master Alfwyn says I have a knack for herbalism."
 
 Kane laughed weakly. "Is that what he calls it? Your master hides much from you, young Frost. As do all who remember the true history of our world."
 
@@ -94,13 +100,13 @@ Despite himself, Kieron's curiosity piqued. "What do you mean? What true history
 
 Kane's gaze drifted to the wrapped bundle he had refused to relinquish, even when Kieron needed to shift him to treat his wound. "Have you ever wondered why battle energy—đấu khí, as some call it—manifests differently in different warriors? Why some command fire, others ice, still others the very earth itself?"
 
-Kieron had wondered, though he'd never voiced the question. Master Alfwyn taught that different affinities were simply a matter of temperament and training.
+Kieron had wondered, though he'd never voiced the question. Master Alfwyn taught that different affinities were simply a matter of temperament and training. Yet in his dreams, Kieron had sometimes seen visions of power flowing like rivers of colored light through the world—dreams he had attributed to an overactive imagination.
 
 "It is not merely battle energy," Kane continued, his voice dropping to a near whisper. "It is the remnant of true magic—Elemental Magic, taught by the Elves before humans betrayed them as we betrayed all the ancient races."
 
 Kieron nearly dropped the bandage he was preparing. Such talk was dangerous—heretical, even. The Church of Light taught that humans had always been the sole sentient race of ATEM, with other beings mere legends or metaphors.
 
-"You're delirious from the fever," Kieron said carefully.
+"You're delirious from the fever," Kieron said carefully, though he could not entirely dismiss the resonance of Kane's words with those strange dreams that had haunted him since childhood.
 
 Kane shook his head. "The fever clears my sight rather than clouds it. I was blind before, but no longer." He reached out suddenly, gripping Kieron's wrist with surprising strength. "The Church of Light does not serve the Angels, as they claim. They enslave the last of them, drawing power from their imprisonment just as the First Alliance did with the Evil Ones."
 
@@ -110,9 +116,11 @@ A chill that had nothing to do with the cave's temperature ran down Kieron's spi
 
 He gestured weakly to the wrapped bundle. "The Light Spear is one such artifact. I took it not out of treachery, but to prevent its misuse. The seals are weakening, young Frost. The Evil Ones stir in their prison. If the Church regains the Spear, they will use it not to strengthen the seals, but to extract the last essence of Light Magic from the imprisoned Angels before the great awakening."
 
+As Kane spoke, Kieron felt the pendant against his chest grow warmer, pulsing in time with his quickening heartbeat. His fingertips tingled with a sensation he had experienced only a few times before—when gathering certain rare herbs under the full moon, or when wandering into parts of the Ice Forest where Master Alfwyn said the veil between worlds grew thin.
+
 Kieron sat back on his heels, processing the knight's words. If even a fraction of what Kane said was true, the world was far different than he had been taught. And yet... hadn't Master Alfwyn hinted at such things in his most cryptic moments? Hadn't the old man's teachings about "natural energies" always seemed to skirt the edges of something deeper?
 
-"Why tell me this?" Kieron asked finally. "I'm just an apprentice."
+"Why tell me this?" Kieron asked finally. "I'm just an apprentice." But even as he spoke, he felt the pendant grow warm against his skin, as if in contradiction to his words.
 
 Kane's eyes were beginning to close, the fever taking its toll. "Because you helped me when wisdom would have counseled otherwise. Because you can sense what others cannot." His voice faded to a murmur. "And because the patterns are in your blood, whether you know it or not."
 
@@ -126,7 +134,7 @@ Master Alfwyn stepped from a recess in the cavern wall where no recess had been 
 
 "Three years as my student," the old man said softly, "and you still manage to surprise me, Kieron Frost."
 
-"How long have you been there?" Kieron asked, embarrassment mingling with relief at his master's appearance.
+"How long have you been there?" Kieron asked, embarrassment mingling with relief at his master's appearance. The pendant at his chest had grown cool again, as if responding to Alfwyn's presence.
 
 "Long enough." Alfwyn moved to Kane's side, examining the wound with practiced eyes. "A Light Seal, as he said. Powerful magic, though they would never call it such."
 
@@ -158,6 +166,14 @@ Alfwyn was silent for a long moment, weighing options only he could see. Finally
 
 As they prepared to move the unconscious knight, Kieron felt the weight of the day's events settling on his shoulders. He had entered the forest as an apprentice herbalist, comfortable in his understanding of the world. He would leave it as something else entirely, a participant in events beyond his imagining.
 
-And somewhere in the back of his mind, a voice that sounded much like Kane's whispered that the patterns were in his blood, whether he knew it or not.
+A sudden gust of wind howled at the cave entrance, causing the crystalline formations to vibrate with an almost musical tone. Kieron paused, listening. For a moment, it seemed as if the ice sang with voices—ancient voices, speaking in a language he could almost, but not quite, understand.
+
+"Did you hear that?" he asked Master Alfwyn.
+
+The old man's expression was unreadable. "Hear what, boy?"
+
+"Nothing," Kieron replied after a moment. "Just the wind."
+
+But as he helped his master prepare Kane for transport, somewhere in the back of his mind, a voice that sounded much like Kane's whispered that the patterns were in his blood, whether he knew it or not. And deeper still, another voice—older, colder, more familiar than any he had ever known—seemed to whisper, *At last.*
 
 The first steps into ATEM's true history had been taken. There would be no turning back.
