@@ -19,4 +19,5 @@ This novel heavily inspired by John Ronald Reuel Tolkien, his book LOTR and stor
 
 ### Part One: Raise of Magic
 
-- [Chapter 1: Shadows of Forgotten Magic](./part-one/chapter-001.md)
+- [Chapter 1: Shadows of Forgotten Magic](./part-one/chapter-0001.md)
+- [Chapter 2: Apprentice and the Knight](./part-one/chapter-0002.md)
