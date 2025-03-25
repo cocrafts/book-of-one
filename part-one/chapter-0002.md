@@ -90,31 +90,43 @@ As he worked, applying poultices and quietly murmuring the focusing chants Alfwy
 
 Kane studied him through fever-bright eyes.
 
-"You have a gift," the knight said after a time. "A sensitivity to energies most cannot perceive. It is rare in this age."
+"You have a gift," the knight said after a time, his voice taking on a distant quality. The fever was clearly worsening; sweat beaded on Kane's forehead despite the cave's bitter cold, and his eyes had begun to lose focus. "A sensitivity to energies most cannot perceive."
 
-Kieron shrugged uncomfortably. "Master Alfwyn says I have a knack for herbalism."
+Kieron shrugged uncomfortably. "Master Alfwyn says I have a knack for herbalism, nothing more."
 
-Kane laughed weakly. "Is that what he calls it? Your master hides much from you, young Frost. As do all who remember the true history of our world."
+Kane's grip on the wrapped bundle tightened convulsively as another wave of pain seemed to wash over him. He shuddered, his breathing becoming rapid and shallow. The luminous blood from his wound glowed brighter, and for a moment, Kieron thought he saw strange symbols dancing in the light it cast.
 
-Despite himself, Kieron's curiosity piqued. "What do you mean? What true history?"
+"The wound is worsening," Kieron said, reaching for more herbs. "Try to lie still."
 
-Kane's gaze drifted to the wrapped bundle he had refused to relinquish, even when Kieron needed to shift him to treat his wound. "Have you ever wondered why battle energy—đấu khí, as some call it—manifests differently in different warriors? Why some command fire, others ice, still others the very earth itself?"
+Kane's head fell back against the stone, eyes half-closed, unfocused. "They're all... lies," he muttered, clearly no longer fully conscious. "The histories... fabricated by the victors..."
+
+Kieron leaned closer, applying more of the poultice to the wound. "Save your strength, Sir Kane."
+
+"Seals... weakening now..." Kane's voice had taken on the rambling quality of a man caught between waking and dreaming, words tumbling out without conscious control. "They know... your master knows..."
+
+The knight's eyes suddenly snapped open, fever-bright and intense, but not seeing Kieron—looking instead at something far beyond. His free hand shot out, grabbing Kieron's wrist with surprising strength.
+
+"Have you ever wondered why battle energy—đấu khí, as some call it—manifests differently in different warriors?" he demanded, his voice suddenly clearer despite his delirious state. "Why some command fire, others ice, still others the very earth itself?"
 
 Kieron had wondered, though he'd never voiced the question. Master Alfwyn taught that different affinities were simply a matter of temperament and training. Yet in his dreams, Kieron had sometimes seen visions of power flowing like rivers of colored light through the world—dreams he had attributed to an overactive imagination.
 
-"It is not merely battle energy," Kane continued, his voice dropping to a near whisper. "It is the remnant of true magic—Elemental Magic, taught by the Elves before humans betrayed them as we betrayed all the ancient races."
+"Not... merely... battle energy," Kane continued, his words slurring as he slipped deeper into delirium. "Remnants of true magic... Elemental Magic... Elves taught us before... before the betrayal... we betrayed them all..."
 
 Kieron nearly dropped the bandage he was preparing. Such talk was dangerous—heretical, even. The Church of Light taught that humans had always been the sole sentient race of ATEM, with other beings mere legends or metaphors.
 
-"You're delirious from the fever," Kieron said carefully, though he could not entirely dismiss the resonance of Kane's words with those strange dreams that had haunted him since childhood.
+"Sir Kane, you're delirious from the fever," Kieron said carefully, trying to ease the knight back down. "You need to rest."
 
-Kane shook his head. "The fever clears my sight rather than clouds it. I was blind before, but no longer." He reached out suddenly, gripping Kieron's wrist with surprising strength. "The Church of Light does not serve the Angels, as they claim. They enslave the last of them, drawing power from their imprisonment just as the First Alliance did with the Evil Ones."
+But Kane's grip only tightened, his eyes seeming to clear momentarily, though his skin burned with unnatural heat. "The fever burns away the lies," he whispered, his voice suddenly taking on a quality that made Kieron's skin crawl—as if it wasn't entirely Kane speaking. "They taught us to forget. Made us forget. The Church of Light doesn't serve the Angels—they enslave what remains of them, drawing power from their imprisonment just as the First Alliance did with the Evil Ones."
 
-A chill that had nothing to do with the cave's temperature ran down Kieron's spine. These were not the ravings of a madman; Kane spoke with the terrible clarity of someone who had seen a truth so devastating it had shattered his world.
+A chill that had nothing to do with the cave's temperature ran down Kieron's spine. The words didn't sound like the ravings of a madman; there was a terrible coherence to them, even through the fever-induced haze.
 
-"The Seven Artifacts," Kane continued, loosening his grip. "Created by humans, Dwarves, and Elves to combat the Evil Ones. Ex-Calibur when combined. But we perverted their purpose, used them to seal away all races with power beyond our own."
+Kane's head rolled from side to side as he continued, his words coming in feverish bursts between labored breaths. "Seven Artifacts... created together... humans, Dwarves, Elves... to combat the Evil Ones... Ex-Calibur when combined..."
 
-He gestured weakly to the wrapped bundle. "The Light Spear is one such artifact. I took it not out of treachery, but to prevent its misuse. The seals are weakening, young Frost. The Evil Ones stir in their prison. If the Church regains the Spear, they will use it not to strengthen the seals, but to extract the last essence of Light Magic from the imprisoned Angels before the great awakening."
+He convulsed slightly, and Kieron had to hold him down to prevent him from reopening his wound. The knight's eyes rolled wildly, looking at things Kieron couldn't see.
+
+"We perverted... their purpose," Kane gasped. "Used them to seal away... all races with power beyond our own..."
+
+His free hand gestured weakly toward the wrapped bundle, which glowed faintly through its coverings. "Light Spear... one such artifact. Took it to... prevent misuse..." His voice dropped to a barely audible whisper. "Seals weakening... Evil Ones stir in prison... If Church regains Spear... won't strengthen seals... will extract last essence of Light Magic from Angels... before great awakening..."
 
 As Kane spoke, Kieron felt the pendant against his chest grow warmer, pulsing in time with his quickening heartbeat. His fingertips tingled with a sensation he had experienced only a few times before—when gathering certain rare herbs under the full moon, or when wandering into parts of the Ice Forest where Master Alfwyn said the veil between worlds grew thin.
 
