@@ -1,9 +1,3 @@
-## Summarize
-
-In the Ice Forest, Kane, a former First Knight of the Church of Light now branded a traitor, flees with the stolen Light Spear—one of the seven sacred artifacts. Three forces converge in pursuit: the Church of Light led by Archbishop Luminara seeking to recover their sacred relic; the Central Army under Commander Darius secretly planning to seize the weapon for themselves; and the ancient Houses Stark and Targaryen, guardians of the forest who still preserve forbidden magic. Meanwhile, students from Thyphoon Academy unwittingly enter the forest on a training exercise, including Vinh, the last prince of the Central Kingdom who carries a hidden legacy. As these groups move toward an inevitable collision, something ancient stirs beneath the frozen earth, disturbed by the presence of the Light Spear above, signaling the end of humanity's age of amnesia about magic.
-
-## Detail
-
 # Chapter 1: Shadows of Forgotten Magic
 
 In the land of ATEM, where the whispers of ancient magic had long been silenced, the winter's grip held fast upon the Ice Forest. Snow hung heavy on the pine branches, and frost glittered upon the bark of ancient trees that had witnessed the rise and fall of many ages. Such trees remembered a time when magic flowed freely through the world, though men had long since forgotten.

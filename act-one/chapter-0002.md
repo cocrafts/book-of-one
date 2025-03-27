@@ -1,9 +1,3 @@
-## Summarize
-
-Separated from his master during a sudden blizzard in the Ice Forest, Kieron Frost—apprentice to Master Alfwyn the Gray—discovers the wounded Sir Dominic Kane hiding from his pursuers. Despite recognizing Kane as the fugitive First Knight of the Light Church, Kieron reluctantly helps him when threatened. As Kane's fever worsens, he reveals fragments of forbidden knowledge about Angels, Evil beings, and the truth of magic in ATEM. When Master Alfwyn finally finds his apprentice, he recognizes that by aiding Kane, Kieron has become entangled in events that will reshape the continent. Unknown to Kieron, Alfwyn possesses a fragment of an ancient card containing Dark Magic, suggesting the old man knows far more about the awakening forces than he has shared with his apprentice.
-
-## Detail
-
 # Chapter 2: Apprentice and the Knight
 
 The blizzard came without warning, as they often did in the Ice Forest. One moment, the sky above the pine canopy was clear and star-filled; the next, a wall of white descended, erasing the world beyond arm's reach.

@@ -1,4 +1,4 @@
-## Part One: Raise of Magic 
+## Act One: Raise of Magic 
 
 Kieron gets entangled in trouble with the Church of Light and the First Knight - Kane.
 

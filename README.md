@@ -22,3 +22,4 @@ This novel heavily inspired by John Ronald Reuel Tolkien, his book LOTR and stor
 
 - [Chapter 1: Shadows of Forgotten Magic](./act-one/chapter-0001.md)
 - [Chapter 2: Apprentice and the Knight](./act-one/chapter-0002.md)
+- [Chapter 3: Call for Aid](./act-one/chapter-0003.md)
