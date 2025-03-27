@@ -1,6 +1,6 @@
 # Under Realm - Grand Act Structure
 
-## Part I: Awakening to a Forgotten Legacy
+## Part I: Rise of Magic
 
 ### Act I-A: The Veil Lifts
 - **World Introduction**: The continent of ATEM as ruled by humans, where magic is myth
@@ -15,40 +15,64 @@
   - Strange occurrences suggesting magic is returning
   - First confrontation with Light Church Inquisitors
 
-### Act I-B: Secrets Unraveled
-- **Rising Complexity**:
-  - Alfwyn's teachings about "natural energies" revealed as basic magic
-  - Discovery of Kieron's pendant as a sacred artifact
-  - Orion's family connection to the Light Church exposed
-  - Lyra's lineage and her family's sacred artifact
-  - Elias's first manifestation of Dark Magic abilities
-  - Growing attachment between Kieron and Lyra
-  - Orion's subtle interest in Lyra
-  - Introduction of Serina, a healing student who befriends the isolated Elias
+### Act I-B: The Continental Competition
+- **The Grand Tournament**:
+  - Announcement of the Continent's Young Generation Competition, a prestigious event held once every five years
+  - Representatives from major powers gather: Typhoon Academy, Church of Light's Paladin Initiates, the Three Great Factions' heirs, and the Seven Great Clans' chosen ones
+  - Central Army sends elite cadets to demonstrate human military superiority without magic
+  - Competition designed with multiple trials: combat, knowledge, strategy, and survival challenges
+  
+- **Typhoon Academy's Unconventional Team**:
+  - Kieron selected despite being a relatively new student due to his exceptional tactical mind
+  - Orion representing his noble house while keeping his fire abilities hidden
+  - Lyra chosen as team captain for her versatile abilities and leadership
+  - Elias reluctantly included after demonstrating unexpected skills in preliminary trials
+  - Serina joining as the team's support specialist and healer
+  - Master Alfwyn serving as their mentor, revealing more "natural energy" techniques
+  
+- **Rising Tensions and Revelations**:
+  - Kieron's pendant reacting to certain competition venues (built on ancient magical sites)
+  - Discovery that Orion's family has deep connections to the Light Church judges
+  - Hints of Lyra's mysterious lineage causing concern among Church observers
+  - Elias struggling to control his emerging abilities during high-pressure moments
+  - Growing attachment between Kieron and Lyra through teamwork
+  - Orion's subtle jealousy and interest in Lyra becoming apparent
+  - Serina becoming Elias's emotional anchor during moments of darkness
+  
+- **Unexpected Victory**:
+  - Typhoon Academy's unorthodox methods confounding traditional competitors
+  - Final challenge requiring the team to navigate an ancient ruin filled with strange energy patterns
+  - Climactic moment where the team combines their abilities in a way that hints at old magic
+  - Triumphant victory bringing unexpected attention to Typhoon Academy
+  - Celebratory aftermath marred by suspicious scrutiny from Light Church and Central Army officials
+  - Master Alfwyn warning his students that their victory may have revealed too much too soon
 
-### Act I-C: Academy's Trial
+### Act I-C: Aftermath and Crisis
 - **First Major Challenges**:
-  - Typhoon Academy tournament revealing unusual abilities
-  - Central Army scouts investigating magical occurrences
-  - Kane's return and revelations about the seven artifacts
-  - Elias's abilities exposed to the public
-  - Light Church declares Elias heretical
-  - Serina defends Elias, drawing attention to herself
-  - Kieron and Lyra's relationship deepens amid the crisis
-  - Elias flees the Academy with a wounded Serina
+  - Typhoon Academy's newfound fame after tournament victory attracts unwanted attention
+  - Light Church sends inquisitors to "honor" the winners while secretly investigating
+  - Central Army scouts arrive under the pretense of recruitment, actually investigating magical occurrences
+  - Kane's unexpected return during a celebration ceremony, bringing revelations about the seven artifacts
+  - Academy leadership struggling to protect students while maintaining appearance of normalcy
+  - Elias's Dark Magic abilities fully manifest during a confrontation with Church investigators
+  - Light Church publicly declares Elias heretical, demanding his surrender
+  - Serina boldly defends Elias before the entire academy, drawing dangerous attention to herself
+  - Kieron and Lyra's relationship deepens amid the growing crisis
+  - Elias forced to flee the Academy with a wounded Serina after a nighttime raid
 
 ## Part II: Diverging Paths
 
 ### Act II-A: World in Motion
 - **Global Developments**:
-  - Central Army allies with Light Church, revealing their authoritarian agenda
-  - Central Army deploys Hunter Squads to systematically identify and capture magic users
-  - House Frost called to defend northern borders against Central Army encroachment
-  - Rising kingdoms declare independence from The Alliance, fearing Central Army's growing power
-  - Assassins' Guild approaches Elias, warning about Central Army's anti-magic purges
-  - Nine Martial Schools emerge from seclusion to oppose Central Army's militarism
+  - Typhoon Academy's tournament victory becomes politically charged as rumors of magic use spread
+  - Central Army allies with Light Church, revealing their authoritarian agenda using the tournament incidents as justification
+  - Central Army deploys Hunter Squads to systematically identify and capture magic users, targeting former tournament participants
+  - House Frost called to defend northern borders against Central Army encroachment, with Kieron's victory adding to tensions
+  - Rising kingdoms declare independence from The Alliance, fearing Central Army's growing power and citing Typhoon's independent stance
+  - Assassins' Guild approaches Elias, warning about Central Army's anti-magic purges and referencing his tournament performance
+  - Nine Martial Schools emerge from seclusion to oppose Central Army's militarism, impressed by Typhoon's unconventional victory
   - Craftsmen Guild reveals technological advancements in response to Central Army's weapons program
-  - Typhoon Academy reveals its true strength to the continent, declaring neutrality amidst the growing conflicts
+  - Typhoon Academy reveals its true strength to the continent, declaring neutrality amidst the growing conflicts and becoming a symbol of resistance
 
 ### Act II-B: Personal Journeys
 - **Character Development**:
