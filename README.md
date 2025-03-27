@@ -6,7 +6,8 @@ This novel heavily inspired by John Ronald Reuel Tolkien, his book LOTR and stor
 
 ## For AI:
 - See important context under `./context` folder, which include world building like factions, history, signature creatures, etc
-- Under part folders e.g `./part-one`, `./part-two` see `brief.md` for brief/summary of that part and put detailed chapter information under e.g `./part-one/chapter-001.md`
+- For this novel, `Under Realm` see `./context/under-realm.md` for grand story line which separates into Acts
+- Under part folders e.g `./act-one`, `./act-two` see `brief.md` for brief/summary of that part and put detailed chapter information under e.g `./act-one/chapter-001.md`
 - `chapter-[number].md` is the main content of the chapter, you'll help write/adjust/edit detailed novel content from those files
 - Check `./diagrams` for relationship between characters, factions or families
 - Character's detail under `./characters` folder
@@ -19,5 +20,5 @@ This novel heavily inspired by John Ronald Reuel Tolkien, his book LOTR and stor
 
 ### Part One: Raise of Magic
 
-- [Chapter 1: Shadows of Forgotten Magic](./part-one/chapter-0001.md)
-- [Chapter 2: Apprentice and the Knight](./part-one/chapter-0002.md)
+- [Chapter 1: Shadows of Forgotten Magic](./act-one/chapter-0001.md)
+- [Chapter 2: Apprentice and the Knight](./act-one/chapter-0002.md)
