@@ -22,6 +22,9 @@
   - Orion's family connection to the Light Church exposed
   - Lyra's lineage and her family's sacred artifact
   - Elias's first manifestation of Dark Magic abilities
+  - Growing attachment between Kieron and Lyra
+  - Orion's subtle interest in Lyra
+  - Introduction of Serina, a healing student who befriends the isolated Elias
 
 ### Act I-C: Academy's Trial
 - **First Major Challenges**:
@@ -30,7 +33,9 @@
   - Kane's return and revelations about the seven artifacts
   - Elias's abilities exposed to the public
   - Light Church declares Elias heretical
-  - Elias flees the Academy
+  - Serina defends Elias, drawing attention to herself
+  - Kieron and Lyra's relationship deepens amid the crisis
+  - Elias flees the Academy with a wounded Serina
 
 ## Part II: Diverging Paths
 
@@ -46,11 +51,12 @@
 
 ### Act II-B: Personal Journeys
 - **Character Development**:
-  - Kieron returns to Frost Family, continue his Father's legacy - with the support of Grand Father - the King
-  - Orion infiltrates Light Church hierarchy
-  - Elias trains with the Assassins, discovers Dark Magic principles
-  - Lyra seeks refuge with Wood element masters
-  - Elias begins forming The Awakened as a force for intervention
+  - Kieron returns to Frost Family, continues his Father's legacy with the support of his Grandfather - the King
+  - Orion infiltrates Light Church hierarchy, carrying his secret feelings for Lyra
+  - Elias trains with the Assassins, discovers Dark Magic principles as Serina helps him maintain his humanity
+  - Lyra seeks refuge with Wood element masters, her thoughts often returning to Kieron
+  - Serina's sacrifice to save Elias from Light Church hunters, becoming the catalyst for his transformation
+  - Elias begins forming The Awakened as a force for intervention, driven by grief and newfound purpose
 
 ### Act II-C: Growing Threats
 - **Escalation**:
@@ -76,11 +82,12 @@
 
 ### Act III-B: Reunion and Revelation
 - **Coming Together**:
-  - Kieron and Lyra reunite during a battle
-  - Orion escapes the Light Church with crucial information
-  - Elias and The Awakened save a village from Evil Ones
-  - The four protagonists reunite at Typhoon Academy stronghold
-  - Kane's sacrifice and passing of the Light Spear to Elias
+  - Kieron and Lyra reunite during a battle, their bond clearly strengthened by separation
+  - Orion escapes the Light Church with crucial information, his feelings for Lyra becoming more evident
+  - Elias and The Awakened save a village from Evil Ones, demonstrating his singular focus on mission over personal connections
+  - The four protagonists reunite at Typhoon Academy stronghold, with tension in the Kieron-Lyra-Orion triangle
+  - Elias remains emotionally distant, still haunted by Serina's sacrifice
+  - Kane's sacrifice and passing of the Light Spear to Elias, cementing his path of duty over personal happiness
 
 ### Act III-C: Quest for Truth
 - **Journey to Understanding**:
@@ -111,8 +118,13 @@
 - **Resolution**:
   - The four protagonists become Vessels for different magic streams
   - Spiritual battle within the Prime Magic realm
+  - Kieron and Lyra acknowledge their love amidst the chaos, while Orion finds peace in accepting their bond
+  - Elias has a vision of Serina during the spiritual battle, finding closure and purpose
   - Moment of understanding and forgiveness between races
   - Restoration of balance and new covenant
+  - Kieron and Lyra begin building a future together
+  - Orion discovers a new path for himself beyond his unrequited feelings
+  - Elias chooses to continue his solitary mission, finding meaning in his role as balance-keeper
   - Establishing the foundation for coexistence
   - Epilogue: A glimpse of the new ATEM
 
