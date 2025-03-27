@@ -41,12 +41,13 @@
 
 ### Act II-A: World in Motion
 - **Global Developments**:
-  - Central Army allies with Light Church
-  - House Frost called to defend northern borders
-  - Rising kingdoms declare independence from The Alliance
-  - Assassins' Guild approaches Elias
-  - Nine Martial Schools emerge from seclusion
-  - Craftsmen Guild reveals technological advancements
+  - Central Army allies with Light Church, revealing their authoritarian agenda
+  - Central Army deploys Hunter Squads to systematically identify and capture magic users
+  - House Frost called to defend northern borders against Central Army encroachment
+  - Rising kingdoms declare independence from The Alliance, fearing Central Army's growing power
+  - Assassins' Guild approaches Elias, warning about Central Army's anti-magic purges
+  - Nine Martial Schools emerge from seclusion to oppose Central Army's militarism
+  - Craftsmen Guild reveals technological advancements in response to Central Army's weapons program
   - Typhoon Academy reveals its true strength to the continent, declaring neutrality amidst the growing conflicts
 
 ### Act II-B: Personal Journeys
@@ -61,24 +62,27 @@
 ### Act II-C: Growing Threats
 - **Escalation**:
   - First signs of seal weakening in the Under Realm
-  - Light Church begins hunting all suspected magic users
-  - Orion discovers his father's plot to harvest Angel essence
+  - Central Army unveils "Purification Program" with public executions of captured magic users
+  - Light Church begins hunting all suspected magic users in coordination with Central Army's Hunter Squads
+  - Orion discovers his father's collaboration with Central Army to harvest Angel essence for weapons
   - The Awakened and Typhoon Academy: Contrasting Approaches
-    - Typhoon maintains principled non-involvement publicly, secretly allying with underground factions
-    - The Awakened takes a more aggressive, interventionist approach
+    - Typhoon maintains principled non-involvement publicly, secretly aiding those fleeing Central Army persecution
+    - The Awakened takes a more aggressive approach, directly sabotaging Central Army operations
     - Typhoon represents cautious wisdom; The Awakened embodies youthful, passionate justice
-  - Ancient Elf emissary appears at House Frost
-  - An Evil One partially awakens, causing nightmares across ATEM
+  - Ancient Elf emissary appears at House Frost warning of Central Army excavations in sacred lands
+  - An Evil One partially awakens, causing nightmares across ATEM, which Central Army blames on "magical terrorists"
 
 ## Part III: Convergence of Powers
 
 ### Act III-A: Gathering Storm
 - **World at War**:
-  - Full-scale war erupts between multiple human factions
-  - The first Evil Ones escape their prison
-  - Angels appear in the mortal realm seeking vengeance
-  - Elves break their ancient oath to intervene
-  - Magic becomes undeniable across ATEM
+  - Central Army deploys Mobile Fortresses and Titan Armor units against rebelling territories
+  - Commander Augustus declares martial law across Alliance territories, establishing Judgment Detachments
+  - Full-scale war erupts between multiple human factions with Central Army leading the anti-magic coalition
+  - The first Evil Ones escape their prison, initially attacking Central Army facilities
+  - Angels appear in the mortal realm seeking vengeance, specifically targeting Central Army leadership
+  - Elves break their ancient oath to intervene against Central Army excavations of sacred sites
+  - Magic becomes undeniable across ATEM as Central Army's suppression efforts backfire dramatically
 
 ### Act III-B: Reunion and Revelation
 - **Coming Together**:
@@ -109,10 +113,13 @@
 ### Act IV-B: The Great Confrontation
 - **Final Battle**:
   - Ancient Evil Ones, Angels, and Elves fully return with original Prime Magic
-  - Initial devastating attacks on human cities
-  - Desperate defense at the last strongholds
-  - Journey to the battlefield at the convergence point
-  - Beginning of the ritual with the seven artifacts
+  - Central Army deploys its ultimate weapon: the Angel Essence Cannon, with catastrophic consequences
+  - Commander Augustus reveals a radical final solution: sacrificing half of humanity to preserve "purity"
+  - Internal rebellion within Central Army as Lieutenant Felix Gray leads defectors to join the protagonists
+  - Initial devastating attacks on human cities, with Central Army bases as primary targets
+  - Desperate defense at the last strongholds as former Central Army units fight alongside former enemies
+  - Journey to the battlefield at the convergence point through Central Army's desperate last line of defense
+  - Beginning of the ritual with the seven artifacts as remaining Central Army fanatics attempt to interfere
 
 ### Act IV-C: New Dawn
 - **Resolution**:
