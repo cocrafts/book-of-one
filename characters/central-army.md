@@ -97,6 +97,21 @@ The Central Army represents the militarized enforcement arm of The Alliance, ope
 - Believes genuinely that magic will destroy humanity if not eradicated
 - Willing to become a monster to "save" humanity
 
+### Darius "The Dark Knight"
+- **Position**: Commander of Elite Special Operations, directly under Augustus
+- **Appearance**: Imposing figure always clad in distinctive black armor with red accents
+- **Background**: Former knight of a fallen noble house, rose through ranks through brutal efficiency
+- **Fighting Style**: Masterful wielder of anti-magic weaponry, particularly his signature dual blades
+- **Personality**: Cold, calculating, appears to lack empathy but possesses twisted code of honor
+- **Special Trait**: Secretly has limited magical immunity due to experimental procedures
+- **Role in Story**: 
+  - Primary field antagonist who personally hunts the protagonists
+  - Becomes obsessed with defeating Elias after their first inconclusive battle
+  - Known for leading "Midnight Purges" of suspected magic sympathizers
+  - Maintains a personal kill list of high-value magical targets
+  - Develops a grudging respect for his opponents' abilities
+  - Final fate remains ambiguous after apparent sacrifice in last battle
+
 ### Captain Lydia Vex
 - Head of a Hunter Squad, known for her perfect record of captures
 - Personally lost family to magical accidents, fueling her hatred
